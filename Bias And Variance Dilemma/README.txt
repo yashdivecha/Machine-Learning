@@ -18,12 +18,13 @@ remote04:~/ML/biasAndVariance> Rscript biasAndVariance.R
 
 On running the program, automatically "Rplots.pdf" will be created which contains the necessary graphs. 
 -----------------------------------------------------------------------------------------------------------------------------------
+Solution: 
 
-Some Observations.
+(a) Rplots.pdf is the output file with the five polynomial fits in a separate figure
 
-(a) Plotted bias, variance, and error for polynomials of order 1 to 5
+(b) Plotted bias, variance, and error for polynomials of order 1 to 5
 
-(b) As the order increases, 
+(c) As the order increases, 
 1. VARIANCE increases
 2. BIAS decreases.
 
